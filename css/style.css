@@ -213,7 +213,7 @@ h3 {
   height: 42px;
   border-radius: 50%;
   object-fit: contain;
-  background: #000;
+  background: white;
 }
 
 .hero {
@@ -500,10 +500,22 @@ h3 {
   justify-content: center;
 }
 
+.photo-frame {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: var(--radius-xl);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+}
+
 .photo-img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  object-position: center;
   display: block;
 }
 
