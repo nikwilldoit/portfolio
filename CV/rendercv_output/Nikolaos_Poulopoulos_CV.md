@@ -50,15 +50,15 @@ Graduated top of class with a GPA of 19.4/20
 
 
 # Projects
-## **[Decyra](https://github.com/nikwilldoit/Decyra)**
+## **Decyra**
 
 Feb 2026 – June 2026
 
-DECYRA is an AI-powered Android app for Computer Science students, offering personalized academic and career guidance through a RAG-based mentor. It also includes real-time messaging, a forum, Face ID authentication, and WebRTC video conferencing, built on Firebase, AWS, and Supabase.
+DECYRA is an AI-powered Android app for Computer Science students, offering personalized academic and career guidance through a RAG-based mentor. It also includes real-time messaging, a forum, Face ID authentication, and WebRTC video conferencing, built on Firebase, AWS, and Supabase.https://github.com/nikwilldoit/Decyra
 
 
 
-## **[Raki SaaS System](https://github.com/nikwilldoit/Raki_SaaS_System)**
+## **Raki SaaS System**
 
 Sept 2025 – Jan 2026
 
@@ -66,7 +66,7 @@ Raki is a full-stack SaaS POS web application developed with a Spring Boot backe
 
 
 
-## **[Distributed Systems Casino](https://github.com/nikwilldoit/Distributed-Systems-Casino)**
+## **Distributed Systems Casino**
 
 Feb 2026 – June 2026
 

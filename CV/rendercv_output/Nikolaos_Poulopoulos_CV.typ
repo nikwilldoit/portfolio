@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 8,
-    day: 4,
+    day: 5,
   ),
 )
 
@@ -157,9 +157,9 @@
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/nikwilldoit/Decyra")[Decyra]]
+    #strong[Decyra]
 
-    #summary[DECYRA is an AI-powered Android app for Computer Science students, offering personalized academic and career guidance through a RAG-based mentor. It also includes real-time messaging, a forum, Face ID authentication, and WebRTC video conferencing, built on Firebase, AWS, and Supabase.]
+    #summary[DECYRA is an AI-powered Android app for Computer Science students, offering personalized academic and career guidance through a RAG-based mentor. It also includes real-time messaging, a forum, Face ID authentication, and WebRTC video conferencing, built on Firebase, AWS, and Supabase.                https:\/\/github.com\/nikwilldoit\/Decyra]
 
   ],
   [
@@ -170,7 +170,7 @@
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/nikwilldoit/Raki_SaaS_System")[Raki SaaS System]]
+    #strong[Raki SaaS System]
 
     #summary[Raki is a full-stack SaaS POS web application developed with a Spring Boot backend and a React frontend, designed to support small businesses with menu management, orders, payments, reservations, staff administration, taxation, and business operations. The backend provides REST APIs, JWT-based authentication, role-based security, and modular business logic, while the frontend delivers a responsive and interactive user experience.]
 
@@ -183,7 +183,7 @@
 
 #regular-entry(
   [
-    #strong[#link("https://github.com/nikwilldoit/Distributed-Systems-Casino")[Distributed Systems Casino]]
+    #strong[Distributed Systems Casino]
 
     #summary[Distributed casino application based on a MapReduce framework, enabling parallel processing and execution across multiple PCs.]
 
